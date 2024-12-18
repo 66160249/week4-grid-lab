@@ -9,7 +9,7 @@
 - git add .
 - git commit -m "เพิ่ม Grid Layout พื้นฐาน"
 - git add .
-- git commit "เพิ่ม Media Queries สำหรับ Responsive Design"
+- git commit -m "เพิ่ม Media Queries สำหรับ Responsive Design"
 - git add .
 - git commit -m "เพิ่มเนื้อหาจำลองสำหรับทดสอบ Responsive"
 - git add .
@@ -33,5 +33,5 @@
 - git add.
 - git commit -m "เชื่อมต่อ JavaScript"
 - git add .
-- git commit - m "git command use lab"
+- git commit -m "git command use lab"
 - git push
